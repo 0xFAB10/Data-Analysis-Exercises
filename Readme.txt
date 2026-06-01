@@ -52,3 +52,20 @@ O repositório está organizado em notebooks Jupyter, cada um abordando um tema 
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/0xFAB10/Data-Analysis-Exercises.git
+2.  **Navegue pelos notebooks:** Eles estão numerados e nomeados de forma autoexplicativa. Recomendo começar pelos estudos binários (Binery_Study_Bank_01 ao 06) para entender os fundamentos.
+
+3.  **Execute localmente:** Você precisará de um ambiente Jupyter. Instale as dependências necessárias conforme for encontrando erros de importação (sugiro um ambiente virtual com pip install jupyter pandas scikit-learn matplotlib seaborn).
+
+## Status do Projeto
+###Em desenvolvimento contínuo - Este repositório reflete meu aprendizado progressivo. Novos estudos e projetos serão adicionados regularmente.
+
+##Como Contribuir
+Este é um repositório de estudo pessoal, mas sugestões e discussões são bem-vindas! Sinta-se à vontade para abrir uma issue para trocar ideias sobre as análises.
+
+## Licença
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+## Autor
+Fábio Araújo (0xFAB10)
+GitHub: @0xFAB10
+https://www.linkedin.com/in/f%C3%A1bio-de-ara%C3%BAjo-pereira/
